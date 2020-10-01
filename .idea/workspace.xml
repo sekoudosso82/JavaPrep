@@ -9,6 +9,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
@@ -16,19 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataStructure/src/LinkedListInJava.java">
+        <entry file="file://$PROJECT_DIR$/dataStructure/src/QueueInJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="209">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
-                <element signature="e#192#200#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dataStructure/src/QueueInJava.java">
+        <entry file="file://$PROJECT_DIR$/dataStructure/src/StackInJava.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="24" selection-start-column="24" selection-end-column="24" />
@@ -59,6 +62,7 @@
         <option value="$PROJECT_DIR$/dataStructure/src/Arrays.java" />
         <option value="$PROJECT_DIR$/dataStructure/src/ArraysInJava.java" />
         <option value="$PROJECT_DIR$/dataStructure/src/LinkedListInJava.java" />
+        <option value="$PROJECT_DIR$/dataStructure/src/QueueInJava.java" />
       </list>
     </option>
   </component>
@@ -117,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QueueInJava">
+  <component name="RunManager" selected="Application.StackInJava">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays" />
       <module name="dataStructure" />
@@ -146,27 +150,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringFunction" />
-      <module name="stringManipulation" />
+    <configuration name="StackInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackInJava" />
+      <module name="dataStructure" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringFunction" />
       <item itemvalue="Application.Arrays" />
       <item itemvalue="Application.ArraysInJava" />
       <item itemvalue="Application.LinkedListInJava" />
       <item itemvalue="Application.QueueInJava" />
+      <item itemvalue="Application.StackInJava" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackInJava" />
         <item itemvalue="Application.QueueInJava" />
         <item itemvalue="Application.LinkedListInJava" />
         <item itemvalue="Application.ArraysInJava" />
         <item itemvalue="Application.Arrays" />
-        <item itemvalue="Application.StringFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +214,7 @@
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297568" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -320,7 +325,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 04/04_03/end/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dataStructure/src/QueueInJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataStructure/src/StackInJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="24" selection-start-column="24" selection-end-column="24" />
