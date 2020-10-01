@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f31fb422-ff2d-4c56-a605-e932501b5b7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f31fb422-ff2d-4c56-a605-e932501b5b7c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,16 +19,25 @@
         <entry file="file://$PROJECT_DIR$/src/SheaqJavacompany/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/overloadingInJava/src/PassAgrByReferenceOrByValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/overloadingInJava/src/PassAgrByReferenceOrByValue.java">
+        <entry file="file://$PROJECT_DIR$/stringManipulation/src/ConcatenateString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            <state>
+              <caret column="30" selection-start-column="30" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -80,12 +86,12 @@
             <path>
               <item name="JavaPrep" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPrep" type="462c0819:PsiDirectoryNode" />
-              <item name="overloadingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="stringManipulation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaPrep" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPrep" type="462c0819:PsiDirectoryNode" />
-              <item name="overloadingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="stringManipulation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -112,7 +118,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PassAgrByReferenceOrByValue">
+  <component name="RunManager" selected="Application.ConcatenateString">
+    <configuration name="ConcatenateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcatenateString" />
+      <module name="stringManipulation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="SheaqJavacompany.java.Main" />
       <module name="untitled104" />
@@ -141,9 +154,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.OverloadingInJava" />
       <item itemvalue="Application.PassAgrByReferenceOrByValue" />
+      <item itemvalue="Application.ConcatenateString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConcatenateString" />
         <item itemvalue="Application.PassAgrByReferenceOrByValue" />
         <item itemvalue="Application.OverloadingInJava" />
       </list>
@@ -171,7 +186,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -179,7 +194,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -205,14 +220,21 @@
     <entry file="file://$PROJECT_DIR$/src/SheaqJavacompany/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/overloadingInJava/src/PassAgrByReferenceOrByValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        <state relative-caret-position="152">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringManipulation/src/ConcatenateString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/overloadingInJava/overloadingInJava.iml" filepath="$PROJECT_DIR$/overloadingInJava/overloadingInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringManipulation/stringManipulation.iml" filepath="$PROJECT_DIR$/stringManipulation/stringManipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled104.iml" filepath="$PROJECT_DIR$/untitled104.iml" />
     </modules>
   </component>
