@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f31fb422-ff2d-4c56-a605-e932501b5b7c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/stringManipulation/src/StringFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/stringManipulation/src/StringFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStructure/dataStructure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,20 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stringManipulation/src/StringFunction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
+            <state relative-caret-position="323">
+              <caret line="115" column="49" selection-start-line="115" selection-start-column="49" selection-end-line="115" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 03/03_05/end/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataStructure/src/ArraysInJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="42" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="24" selection-end-column="42" />
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -64,6 +66,7 @@
         <option value="$PROJECT_DIR$/overloadingInJava/src/PassAgrByReferenceOrByValue.java" />
         <option value="$PROJECT_DIR$/stringManipulation/src/ConcatenateString.java" />
         <option value="$PROJECT_DIR$/stringManipulation/src/StringFunction.java" />
+        <option value="$PROJECT_DIR$/dataStructure/src/Arrays.java" />
       </list>
     </option>
   </component>
@@ -90,12 +93,12 @@
             <path>
               <item name="JavaPrep" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPrep" type="462c0819:PsiDirectoryNode" />
-              <item name="stringManipulation" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaPrep" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPrep" type="462c0819:PsiDirectoryNode" />
-              <item name="stringManipulation" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -122,27 +125,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringFunction">
+  <component name="RunManager" selected="Application.ArraysInJava">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays" />
+      <module name="dataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysInJava" />
+      <module name="dataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConcatenateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConcatenateString" />
       <module name="stringManipulation" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="SheaqJavacompany.java.Main" />
-      <module name="untitled104" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OverloadingInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OverloadingInJava" />
-      <module name="overloadingInJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,18 +162,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.OverloadingInJava" />
       <item itemvalue="Application.PassAgrByReferenceOrByValue" />
       <item itemvalue="Application.ConcatenateString" />
       <item itemvalue="Application.StringFunction" />
+      <item itemvalue="Application.Arrays" />
+      <item itemvalue="Application.ArraysInJava" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysInJava" />
+        <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.StringFunction" />
         <item itemvalue="Application.ConcatenateString" />
         <item itemvalue="Application.PassAgrByReferenceOrByValue" />
-        <item itemvalue="Application.OverloadingInJava" />
       </list>
     </recent_temporary>
   </component>
@@ -199,15 +200,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -268,14 +269,42 @@
     <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 03/03_05/end/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="24" column="42" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="24" selection-end-column="42" />
+          <caret line="24" column="42" selection-start-line="3" selection-start-column="8" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 03/03_06/end/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" column="49" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="22" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 04/04_01/end/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataStructure/src/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stringManipulation/src/StringFunction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
+        <state relative-caret-position="323">
+          <caret line="115" column="49" selection-start-line="115" selection-start-column="49" selection-end-line="115" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataStructure/src/ArraysInJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
