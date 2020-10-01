@@ -24,20 +24,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/overloadingInJava/src/PassAgrByReferenceOrByValue.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stringManipulation/src/StringFunction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="154">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stringManipulation/src/ConcatenateString.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 03/03_05/end/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 03/03_04/end/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="30" selection-start-column="30" selection-end-column="30" />
+            <state relative-caret-position="749">
+              <caret line="46" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -60,6 +65,8 @@
         <option value="$PROJECT_DIR$/src/SheaqJavacompany/java/Main.java" />
         <option value="$PROJECT_DIR$/overloadingInJava/src/OverloadingInJava.java" />
         <option value="$PROJECT_DIR$/overloadingInJava/src/PassAgrByReferenceOrByValue.java" />
+        <option value="$PROJECT_DIR$/stringManipulation/src/ConcatenateString.java" />
+        <option value="$PROJECT_DIR$/stringManipulation/src/StringFunction.java" />
       </list>
     </option>
   </component>
@@ -118,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConcatenateString">
+  <component name="RunManager" selected="Application.StringFunction">
     <configuration name="ConcatenateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConcatenateString" />
       <module name="stringManipulation" />
@@ -150,14 +157,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringFunction" />
+      <module name="stringManipulation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.OverloadingInJava" />
       <item itemvalue="Application.PassAgrByReferenceOrByValue" />
       <item itemvalue="Application.ConcatenateString" />
+      <item itemvalue="Application.StringFunction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringFunction" />
         <item itemvalue="Application.ConcatenateString" />
         <item itemvalue="Application.PassAgrByReferenceOrByValue" />
         <item itemvalue="Application.OverloadingInJava" />
@@ -186,15 +202,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32894737" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -217,13 +233,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SheaqJavacompany/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/overloadingInJava/src/PassAgrByReferenceOrByValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -231,10 +240,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 03/03_03/end/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/stringManipulation/src/ConcatenateString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        <state relative-caret-position="238">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SheaqJavacompany/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 03/03_05/end/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 03/03_04/end/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="46" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stringManipulation/src/StringFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
         </state>
       </provider>
     </entry>
