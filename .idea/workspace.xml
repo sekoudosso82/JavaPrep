@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f31fb422-ff2d-4c56-a605-e932501b5b7c" name="Default Changelist" comment="" />
+    <list default="true" id="f31fb422-ff2d-4c56-a605-e932501b5b7c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/stringManipulation/src/StringFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/stringManipulation/src/StringFunction.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,22 +29,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stringManipulation/src/StringFunction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+            <state relative-caret-position="390">
+              <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 03/03_05/end/Main.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 03/03_04/end/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="749">
-              <caret line="46" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="46" />
+            <state relative-caret-position="456">
+              <caret line="24" column="42" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="24" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -207,10 +204,10 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -261,9 +258,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 03/03_05/end/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 03/03_04/end/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="749">
@@ -271,10 +265,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/Ex_Files_Nail_Your_Java_Interview-3/Exercise Files/Chapter 03/03_05/end/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/stringManipulation/src/StringFunction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        <state relative-caret-position="390">
+          <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
         </state>
       </provider>
     </entry>
